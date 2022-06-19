@@ -1,0 +1,5 @@
+# to remove all node module 
+node_modules/
+# to remove tutorials, contain, videos, files
+tut/
+
